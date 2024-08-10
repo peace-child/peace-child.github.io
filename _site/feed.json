@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sidey",
+    "title": "peacechild",
     "home_page_url": "http://localhost:4000/",
     "feed_url": "http://localhost:4000/feed.json",
-    "description": "Simple and minimalistic jekyll blogging theme.",
+    "description": "notes on current readings",
     "icon": "http://localhost:4000/apple-touch-icon.png",
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,
@@ -11,27 +11,6 @@
     "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
     
 "items": [
-    
-        {
-            "id": "http://localhost:4000/2014/05/12/css-hacks-you-may-not-know",
-            "title": "Notes on 'White Man's Guilt' by James Baldwin",
-            "summary": null,
-            "content_text": "I can only understand about you to the degree I can understand about myself. The fear of white man that the Black man would do the same to you stems from the fact that he hasn’t gotten to understand the Black man. He thinks thats the only thing the black man is capable of because he doesn’t know any better than that about himself. White man’s all the efforts are towards this safety. He had to invent the Negro so he would not go through what the Negro has gone through.",
-            "content_html": "<p>I can only understand about you to the degree I can understand about myself. The fear of white man that the Black man would do the same to you stems from the fact that he hasn’t gotten to understand the Black man. He thinks thats the only thing the black man is capable of because he doesn’t know any better than that about himself. White man’s all the efforts are towards this safety. He had to invent the Negro so he would not go through what the Negro has gone through.</p>",
-            "url": "http://localhost:4000/2014/05/12/css-hacks-you-may-not-know",
-            
-            
-            
-            
-            
-            "date_published": "2014-05-12T00:00:00+05:30",
-            "date_modified": "2014-05-12T00:00:00+05:30",
-            
-                "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
-                
-            
-        }
     
     ]
 }

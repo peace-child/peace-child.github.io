@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Notes on 'White Man's Guilt' by James Baldwin
-description: 
-summary: 
+description: ------
+summary: -------
 tags: [Baldwin]
 ---
 
