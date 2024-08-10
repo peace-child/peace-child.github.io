@@ -3,26 +3,4 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
-
-### Features
-
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+My name is Shubham Shinde. I am a research scholar at NCBS, Tata Institute of Fundamental Research. I am interested in history and philosophy, particularly the philosophicies that came out of Indian Freedom Struggle and Civil Rights Movement. Some of the philosophers I want to read in near time are James Baldwin, WEB Du Bois, Martin Luther King Jr, Mahatma Gandhi, Rahul Sankrityan, and DD Kosambi.
